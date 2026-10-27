@@ -11,5 +11,7 @@
 - Brionjv (his save editor is at https://github.com/Brionjv/Miitopia-Save-Editor), this editor is basically just a port of his to a 3DS and without his editor i wouldn't have been able to make this
 
 # Warnings:
-- Hasn't been tested with EU or JPN saves so be careful using those
+- Hasn't been tested with EU or JPN saves so be careful using those (only tested on my NA game)
 - Can't read cartridge saves (sorry cartridge fellas you need digital)
+- ^ ill probably try and fix this stuff in the code but also im like burnt out so this is what you get for now
+- (do I publish the source code idfk how github works)
