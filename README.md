@@ -1,5 +1,7 @@
 # Random's Miitopia Save Editor
+Edit your Miitopia save file, from the console itself.
 (ive never used github to upload one of my projects before im so terrified idk what im doing)
+As an unintentional side effect, also allows users without access to the PC editor to edit their save files (hell yeah)
 
 # Install:
 - install this the way you'd install any .3dsx homebrew
@@ -14,4 +16,3 @@
 - Hasn't been tested with EU or JPN saves so be careful using those (only tested on my NA game)
 - Can't read cartridge saves (sorry cartridge fellas you need digital)
 - ^ ill probably try and fix this stuff in the code but also im like burnt out so this is what you get for now
-- (do I publish the source code idfk how github works)
